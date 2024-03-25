@@ -9,4 +9,3 @@ phases:
       - yarn types
       - yarn lint
       - yarn test:unit:ci
-      - npm start
