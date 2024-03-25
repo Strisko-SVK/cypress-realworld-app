@@ -63,6 +63,7 @@ phases:
       - yarn lint
       - yarn test:unit:ci
       - yarn build:ci
+      - yarn start
   build:
     commands:
       - yarn start
